@@ -57,6 +57,26 @@ Developed by:Madhushri
 RegisterNumber:*/24005365
 
 
+**BOOLEAN_FUNCTION_MINIMIZATION**
+
+F1
+
+![image](https://github.com/user-attachments/assets/e53ac260-f494-40fc-9f77-47b0e30610ef)
+
+
+F2
+
+![image](https://github.com/user-attachments/assets/ea2d3c65-6b0d-492a-9b7f-a559c55d2974)
+
+
+**TRUTH TABLE**
+
+![image](https://github.com/user-attachments/assets/1191d1d0-9116-4c31-8208-b669af4d5569)
+
+
+
+
+
 **RTL**
 F1
 ![image](https://github.com/user-attachments/assets/65a3441f-aa34-4432-9f40-e7577f91c340)
