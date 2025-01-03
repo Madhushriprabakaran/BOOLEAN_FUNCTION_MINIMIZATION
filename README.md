@@ -36,7 +36,11 @@ Boolean Algebra is a branch of algebra that deals with boolean values—true and
 
 
 Developed by:Madhushri
-RegisterNumber:*/24005365
+
+
+
+
+RegisterNumber:24005365
 
 
 **BOOLEAN_FUNCTION_MINIMIZATION**
